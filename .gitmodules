@@ -1,4 +1,4 @@
 [submodule "contiki-ng"]
   path = contiki-ng
   branch = develop
-  url = https://github.com/contiki-ng/contiki-ng.git
+  url = https://github.com/fkerem/contiki-ng.git
